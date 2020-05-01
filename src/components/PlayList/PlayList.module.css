@@ -1,0 +1,20 @@
+.playListContainer{
+    margin: 0px 150px;
+    background-color: #E5E5E5;
+    width: 589px;
+}
+.platListText{
+    margin: 45px 0px;
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    line-height: 35px;
+    color: #154751;
+}
+@media (max-width: 500px){
+    .playListContainer{
+        width: 100%;
+        margin: 0px 15px;
+    }
+}

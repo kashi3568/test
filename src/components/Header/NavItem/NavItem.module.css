@@ -1,0 +1,19 @@
+.navItem{
+    text-align: center;
+    font-family: SF Pro Display;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+letter-spacing: 0.199196px;
+
+color: #4F978D;
+    margin-left: 100px ;
+    
+
+}
+.navItem :hover{
+    cursor: pointer;
+} 

@@ -1,0 +1,27 @@
+.header{
+    background-color: #C7E7E2;
+    height: 84px;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    padding: 0px 150px;
+}
+.brandLogo{
+    margin: 34px 0px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14.5714px;
+    line-height: 18px;
+    color: #154751;
+}
+.navItems{
+    display: flex;
+    flex-flow: row;
+    margin: 16px 0px 11px 0px;
+}
+@media (max-width: 818px){
+    .navItems{
+        display: none;
+    }
+}
